@@ -114,5 +114,9 @@
         
     }
     ?>
+
+    <?php
+    include_once 'daftar_nilai.php';
+    ?>
 </body>
 </html>
